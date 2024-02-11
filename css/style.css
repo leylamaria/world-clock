@@ -22,20 +22,21 @@ select {
   background: rgba(239, 243, 244, 0.9);
   border: 2px solid #c73565;
   color: rgba(29, 26, 39, 0.8);
-  font-size: 17px;
+  font-size: 18px;
   display: block;
   border-radius: 10px;
   margin: 40px auto 25px;
-  padding: 10px;
+  padding: 15px;
   width: 100%;
 }
 .container {
   background: #1c1a27;
-  border-radius: 30px;
+  border: 2px dotted #f3f6f7;
+  border-radius: 20px;
   box-shadow: rgba(100, 100, 111, 0.9) 0px 7px 29px 0px;
   margin: 40px auto 15px;
   max-width: 400px;
-  padding: 30px;
+  padding: 30px 15px;
 }
 
 .logo {
@@ -61,11 +62,11 @@ select {
   opacity: 0.6;
 }
 .time {
-  font-size: 44px;
+  font-size: 40px;
   font-weight: 600;
 }
 .time small {
-  font-size: 18px;
+  font-size: 14px;
   vertical-align: middle;
   line-height: 36px;
 }
@@ -75,7 +76,7 @@ a {
   font-weight: 600;
 }
 footer {
-  font-size: 14px;
+  font-size: 13px;
   opacity: 0.8;
   margin-bottom: 20px;
   text-align: center;
